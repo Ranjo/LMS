@@ -1,0 +1,33 @@
+.forml{
+	position: absolute;
+	left: 300px;
+	top: 73px;
+	float: left;
+	width: 70%;
+}
+.formp{
+	padding-top: 10px;
+	height: 50px;
+	margin: 5px;
+}
+input{
+	border-radius: 4px;
+	 background-color: oldlace;
+}
+select{
+	width: 40%;
+	height: 30px;
+	background-color: oldlace;
+}
+}
+/*input[name="submitl"]{
+	float: left;
+	width: 50%;
+	height: 50px;
+	background: green;
+}
+input[name="cancell"]{
+	width: 50%;
+	height: 50px;
+	background: red;
+}*/

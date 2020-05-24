@@ -1,0 +1,37 @@
+.forml{
+	position: absolute;
+	left: 300px;
+	top: 74px;
+	float: left;
+	width: 55%;
+}
+.formp{
+	padding-top: 10px;
+	height: 50px;
+	margin: 5px;
+	background: blues; 
+}
+input{
+	border-radius: 4px;
+	//height: 10px; 
+}
+.bodies{
+	position: relative;
+}
+.maincontent{
+	position: absolute;
+	right: 300px;
+}
+#desc1{
+	border: solid 1px #FF605C5C;
+	position: absolute;
+	top: 45px;
+	right: 0px;
+	height: 250px;
+	width: 320px;
+}
+#leavedetails{
+	position: absolute;
+	left: 1050px;
+	top: 74px;
+}

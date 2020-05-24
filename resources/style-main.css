@@ -1,0 +1,38 @@
+
+body{
+background-image: url(Imgs/13732.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-attachment: fixed;
+
+	}
+.forml{
+	width: 30%;
+	margin: 0 auto;
+
+}
+.ht2{
+	padding: 10px;
+}
+.ht3{
+	padding: 2px;
+
+}
+.formp{
+margin: 5px;
+padding: 5px;
+}
+label{
+	margin-right: 10px;
+}
+input{
+	border-radius: 5px;
+	background: white;
+}
+.loginbtn{
+	width: 25%;
+	background: green;
+	border-radius: 4px;
+	height: 30px;
+
+}

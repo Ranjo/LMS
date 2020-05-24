@@ -1,0 +1,36 @@
+#box{
+width: 100%;
+}
+.column {
+width: 33.33%;
+display: inline-block;
+}
+.form{
+padding: 2px;
+width: 100%;
+display: inline-block;
+}
+.first-column {
+display: inline-block;
+width: 100px;
+height: 2px;
+margin: 2px;
+position: inherit;
+}
+.second-column{
+display: inline-block;
+width: 150px;
+height: 2px;
+margin: 2px;
+position: inherit;
+}
+select {
+width: 150px;
+font-size: 12px;
+height: 25px;
+padding: 4px
+}
+.clear{
+clear: left;
+height: 15px;
+}
